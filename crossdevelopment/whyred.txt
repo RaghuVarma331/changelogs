@@ -1,0 +1,2 @@
+- Based on latest rom sources\n- Improved system stability\n- User interface enhancements\n- Google Security Patch 2020-05
+

@@ -1,0 +1,49 @@
+12/26/19
+=======
+
+OxygenOS Android 10.0 Port v-4
+
+supported devices
+=================
+
+* Nokia 6.1 Plus
+* Nokia 7 Plus
+* Nokia 7.1
+* Nokia 6.1
+* Nokia 7.2
+* Nokia 6.2
+
+changelog
+==========
+1. Added back OnePlus 7 pro live wallpapers
+2. Port based on Stable OnePlus 6 November build
+3. Heavily debloated
+4. Security patch November 2019
+5. comes with kiwis 4.4.207 ( Nokia 7.1 , 6.1 , 6.1 Plus & 7 Plus )
+6. comes with stock kernel ( Nokia 7.2 & Nokia 6.2 )
+
+---------------------------------------------------------------------------------------------------------------------------
+
+12/09/19
+========
+
+OxygenOS Android 10.0 Port V-3
+
+1. Fixed Multiple languages bug
+
+----------------------------------------------------------------------------------------------------------------------------
+
+12/01/19
+========
+
+OxygenOS Android 10.0 Port V-2
+
+1. Added Oxygenos support for Nokia 7.2 & Nokia 6.2
+2. Fixed ambient display notifications
+3. Nuked face unlock due it will never work
+4. Aod also never works due to our display is different
+5. Removed OnePlus 6 Camera
+6. Removed OnePlus 7 pro live wallpapers as well due to heavy
+7. Rom is heavily debloated with minimum features to make performance faster then stock rom and also if you want camera etc use GCam.
+
+

@@ -1,0 +1,7 @@
+1. Download ota.zip
+2. Connect your phone to pc & Reboot your phone to recovery mode
+3. Click on apply update from adb
+4. Open cmd from the folder which you have been downloaded  & saved ota.zip in your pc
+5. adb sideload nameofthezip.zip
+6. Wait for 15 minutes
+7. Now press reboot system after installation

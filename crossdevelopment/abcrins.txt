@@ -1,0 +1,25 @@
+How to flash ROMs?
+
+Clean flash 
+=========
+
+* Boot in to twrp
+* Click on wipe
+* Click on format data
+* type yes
+* Reboot to bootloader
+* Boot in to twrp 
+* Wipe all partitions
+* flash ROM zip
+* Change slot
+* Wipe all again except system vendor
+* Reboot system
+
+
+Dirty flash?
+=========
+
+* Boot in to twrp
+* Flash rom zip
+* Change slot
+* Reboot system

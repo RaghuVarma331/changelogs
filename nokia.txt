@@ -1,0 +1,11 @@
+- Based on latest rom sources
+- Improved system stability
+- User interface enhancements
+- Google Security Patch 2020-05
+- sourcebuilt vendor.img
+- system blobs from FIH_00W-4150
+- vendor blobs from FIH_00W-4150
+- powered by Blackcaps kernel
+- linux version 4.4.194
+- build signed using private keys
+

@@ -1,0 +1,4 @@
+1. Boot in to twrp
+2. mount system
+3. Flash N7.2-LC-Camera-Port-DRG_PL2_B2N_CTL_DDV_SLD.zip
+4. reboot system

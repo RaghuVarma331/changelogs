@@ -1,0 +1,11 @@
+Installation procedure
+
+1. Download vendor.zip 
+2. boot your phone in to twrp
+3. select wipe
+4. select format data
+5. type yes
+6. reboot to twrp
+7. select wipe -> advance wipe -> wipe only vendor
+8. flash vendor.zip
+9. reboot system

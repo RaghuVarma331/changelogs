@@ -1,7 +1,7 @@
 - Based on latest rom sources
 - Improved system stability
 - User interface enhancements
-- Google Security Patch 2020-05
+- Google Security Patch 2020-06
 - sourcebuilt vendor.img
 - system blobs from FIH_00W-4150
 - vendor blobs from FIH_00W-4150

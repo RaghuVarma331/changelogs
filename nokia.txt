@@ -1,3 +1,6 @@
+changelog - Nokia SDM660 Devices
+================================
+
 *  Based on latest rom sources
 *  Improved system stability
 *  User interface enhancements 
@@ -6,8 +9,15 @@
 *  system blobs from FIH_00W-4150
 *  vendor blobs from FIH_00W-4150 
 *  powered by Blackcaps kernel 
-*  linux version 4.4.194
+*  Kernel source base tag - LA.UM.8.2.r1-06900-sdm660.0
+*  linux version 4.4.212
+*  Nokia kernel drivers from 4.15C
 *  build signed using private keys 
 *  Added Google Play services for Ar support ( which was missing in my previous builds )
 *  Added aptx & aptxHd support
+*  added LDAC support
 *  fixed double tap to wake
+*  fixed whatsapp video calls
+*  Wlan drivers base tag -LA.UM.7.2.r1-08900-sdm660.0
+*  Installation procedure changed once follow the updated steps 
+*  No need to flash vendor zip anymore Because we are building vendor.img as well ( dreams came true )

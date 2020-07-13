@@ -1,23 +1,42 @@
-changelog - Nokia SDM660 Devices
-================================
+Final changelog - Nokia 6.1 Plus | 7 Plus | 7.1 & 6.1 |
+=======================================================
 
 *  Based on latest rom sources
 *  Improved system stability
 *  User interface enhancements 
-*  Google Security Patch 2020-06
-*  sourcebuilt vendor.img 
-*  system blobs from FIH_00W-4150
-*  vendor blobs from FIH_00W-4150 
-*  powered by Blackcaps kernel 
+*  Google Security Patch 2020-07
+*  vendor security patch level 2020-05
+*  Merged configs from 4.15C
+*  Light hals built from source
+*  Power Hals built from source
+*  Thermal Hals built from source
+*  Audio Hals built from source
+*  Sound triggers built from source
+*  Memtrack built built from source
+*  hw composer built from source
+*  power hal upgraded to 1.2 from 1.0
+*  Audio configurations from 4.15C
+*  Media configurations from 4.15C
+*  System blobs from 4.15C
+*  Vendor blobs from 4.15C
+*  Camera blobs from 4.150
+*  Linux version 4.4.212
+*  Low brightness issue fixed ( same as like stock now )
+*  powered by Blackcaps kernel
 *  Kernel source base tag - LA.UM.8.2.r1-06900-sdm660.0
-*  linux version 4.4.212
 *  Nokia kernel drivers from 4.15C
 *  build signed using private keys 
-*  Added Google Play services for Ar support ( which was missing in my previous builds )
-*  Added aptx & aptxHd support
-*  added LDAC support
 *  fixed double tap to wake
 *  fixed whatsapp video calls
 *  Wlan drivers base tag -LA.UM.7.2.r1-08900-sdm660.0
-*  Installation procedure changed once follow the updated steps 
-*  No need to flash vendor zip anymore Because we are building vendor.img as well ( dreams came true )
+*  Shifted sepolicy to rom rather then device specific to avoid errors
+*  Moved audio configurations xmls from vendor tree to device tree
+*  Moved media configurations xmls from vendor tree to device tree
+*  Wifi configurations .bin from vendor tree to device tree
+*  Updated rootdir/inits in to device specific
+*  Updated rootdir/bin in to device specific
+*  Updated fingerprints to 4.15C
+*  removed Verity support ( now people can flash gapps zip without any bootloops )
+*  Removed gsi keys ( no use at all )
+*  subdivided Hals & copy configuration files from up and down to get more clean look 
+

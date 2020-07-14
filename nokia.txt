@@ -1,6 +1,7 @@
-Final changelog - Nokia 6.1 Plus | 7 Plus | 7.1 & 6.1 |
-=======================================================
+Final Android 10 Changelog 
+==========================
 
+*  Flash Gapps seperately for LineageOS (no need for evox,pe & derp)
 *  Based on latest rom sources
 *  Improved system stability
 *  User interface enhancements 

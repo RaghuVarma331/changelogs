@@ -1,5 +1,5 @@
-Final Android 10 Changelog 
-==========================
+Final Android 10 Changelog Fri Jul 17 12:18:51 IST 2020
+=======================================================
 
 *  Flash Gapps seperately for LineageOS (no need for evox,pe & derp)
 *  Based on latest rom sources
@@ -7,6 +7,14 @@ Final Android 10 Changelog
 *  User interface enhancements 
 *  Google Security Patch 2020-07
 *  vendor security patch level 2020-05
+*  Improved system brightness (same as like stock)
+*  Fixed mic issues by default on all units
+*  Updated fingerprint from coral to pass safety net out of the box
+*  Enabled SD card as internal storage (user choice you people can switch accordingly to your wish during setup or from settings)
+*  Fixed lower brightness (I mean minimum capacity)
+*  Increased vibrator values to get more vibration (same as like stock)
+*  Enable 4K video recording 
+*  added GoogleCamera - MGC 7.3.020 Parrot043 V8 as default on all roms (Thanks to Google for Google Camera & Devs for porting) 
 *  Merged configs from 4.15C
 *  Light hals built from source
 *  Power Hals built from source
@@ -22,14 +30,14 @@ Final Android 10 Changelog
 *  Vendor blobs from 4.15C
 *  Camera blobs from 4.150
 *  Linux version 4.4.212
-*  Low brightness issue fixed ( same as like stock now )
+*  Low brightness issue fixed (same as like stock now)
 *  powered by Blackcaps kernel
 *  Kernel source base tag - LA.UM.8.2.r1-06900-sdm660.0
 *  Nokia kernel drivers from 4.15C
 *  build signed using private keys 
 *  fixed double tap to wake
 *  fixed whatsapp video calls
-*  Wlan drivers base tag -LA.UM.7.2.r1-08900-sdm660.0
+*  Wlan drivers base tag - LA.UM.7.2.r1-08900-sdm660.0
 *  Shifted sepolicy to rom rather then device specific to avoid errors
 *  Moved audio configurations xmls from vendor tree to device tree
 *  Moved media configurations xmls from vendor tree to device tree
@@ -37,7 +45,7 @@ Final Android 10 Changelog
 *  Updated rootdir/inits in to device specific
 *  Updated rootdir/bin in to device specific
 *  Updated fingerprints to 4.15C
-*  removed Verity support ( now people can flash gapps zip without any bootloops )
-*  Removed gsi keys ( no use at all )
+*  removed Verity support (now people can flash gapps zip without any bootloops)
+*  Removed gsi keys (no use at all)
 *  subdivided Hals & copy configuration files from up and down to get more clean look 
 

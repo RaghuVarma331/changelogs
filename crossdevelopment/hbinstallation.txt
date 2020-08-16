@@ -1,13 +1,42 @@
-Note - Make sure your phone bootloader is unlocked
+Installation procedure for the roms which has google apps included
+==============
 
-1. Download Nokia-SDM660-Tool.zip & Copy Nokia-Tool.exe
-2. Download latest HOME BREW Stock Rom And extract in one Folder and name it as STOCK ROM
-3. Now add Nokia-Tool.exe in to that respective STOCK ROM Folder
-4. Now connect phone to pc
-5. Go to download mode
-6. Now Open Nokia-Tool.exe
-7. Now select Button according to your Phone code
-8. Example Iam Using Nokia 6.1 Plus & My phone code DRG & so i will choose [ DRG B2N CTL PL2 ] same option for 6.1 , 7.1 & 7+ but for 7.2 & 6.2 users choose [DDV SLD]
-9. i will click on [ DRG B2N CTL PL2} According to my phone as i explained in point no.8
-10. wait for 10 min Tool will flash the rom & your phone reboots to system.
-11. So finally this is what the exact standard method to flash stock rom on Your devices
+1. Boot in to twrp
+2. Click on wipe
+3. Select format data
+4. Type yes
+5. Reboot to bootloader
+6. Boot in to twrp
+7. Select wipe
+8. Select advance wipe
+9. Select all except sdcard
+10. Swipe to wipe
+11. Copy Rom.zip
+12. Flash ROM.zip
+13. Change slot 
+14. Select wipe
+15. Select advance wipe
+16. Select all except system vendor SD card and swipe to wipe
+17. Reboot system
+
+
+Installation procedure for the roms which doesn't comes with gapps
+==============
+
+1. Boot in to twrp
+2. Click on wipe
+3. Select format data
+4. Type yes
+5. Reboot to bootloader
+6. Boot in to twrp
+7. Select wipe
+8. Select advance wipe
+9. Select all except sdcard
+10. Swipe to wipe
+11. Copy rom.zip
+12. Flash ROM.zip
+13. Change slot , reboot to twrp again , flash opengapps.zip
+14. Select wipe
+15. Select advance wipe
+16. Select all except system vendor SD card and swipe to wipe
+17. Reboot system

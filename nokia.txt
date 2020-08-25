@@ -9,7 +9,10 @@ Android 10 Changelog August 2020-08-05
 * Google Security Patch 2020-08
 * Faceunlock support out of the box
 * Comes with BlackCaps kernel
-* Linux version 4.4.212
+* Linux version 4.4.192
+* Compiled using clang-r353983c
+* Ota app UI improvements
+* Enabled Wifi Calling Support
 * System blobs based on 4.15C
 * Vendor blobs based on 4.15C
 * Camera blobs based on 4.150

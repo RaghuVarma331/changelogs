@@ -40,3 +40,25 @@ Installation procedure for the roms which doesn't comes with gapps
 15. Select advance wipe
 16. Select all except system vendor SD card and swipe to wipe
 17. Reboot system
+
+
+Installation procedure for the roms which doesn't comes with vendor 
+=============
+
+1. Boot in to twrp
+2. Click on wipe
+3. Select format data
+4. Type yes
+5. Reboot to bootloader
+6. Boot in to twrp
+7. Select wipe
+8. Select advance wipe
+9. Select all except sdcard
+10. Swipe to wipe
+11. Copy rom.zip
+12. Flash ROM.zip & vendor.zip
+13. Change slot , reboot to twrp again , flash opengapps.zip
+14. Select wipe
+15. Select advance wipe
+16. Select all except system vendor SD card and swipe to wipe
+17. Reboot system

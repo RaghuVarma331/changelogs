@@ -1,0 +1,13 @@
+• unlock your bootloader
+• enable developer options
+• enable usb debugging
+• connect phone to computer & open command prompt with adb drivers installed.
+• type adb devices 
+• type adb reboot bootloader
+• type fastboot devices
+• resize system and vendor partitions to 3.5G S & 1G V using my repartition tool (https://forum.xda-developers.com/t/guide-repartition-tool-for-nokia-6-1-plus-x6.4334461/)
+• reboot to bootloader
+• type fastboot devices
+• unpack oxygen os zip
+• click on install.bat 
+• once after you reach oxygen os boot animation logo please wait for 8 to 14 minutes to boot completely.
